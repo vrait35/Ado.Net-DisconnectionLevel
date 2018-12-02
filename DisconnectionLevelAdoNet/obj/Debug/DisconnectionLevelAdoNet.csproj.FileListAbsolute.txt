@@ -1,0 +1,7 @@
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\bin\Debug\DisconnectionLevelAdoNet.exe.config
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\bin\Debug\DisconnectionLevelAdoNet.exe
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\bin\Debug\DisconnectionLevelAdoNet.pdb
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\obj\Debug\DisconnectionLevelAdoNet.csprojResolveAssemblyReference.cache
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\obj\Debug\DisconnectionLevelAdoNet.csproj.CoreCompileInputs.cache
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\obj\Debug\DisconnectionLevelAdoNet.exe
+c:\users\anuar\source\repos\DisconnectionLevelAdoNet\DisconnectionLevelAdoNet\obj\Debug\DisconnectionLevelAdoNet.pdb
