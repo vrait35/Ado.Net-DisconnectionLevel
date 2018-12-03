@@ -83,7 +83,10 @@ namespace DisconnectionLevelAdoNet
             Orders.Rows.Add(orderRow);
             
             ds.Tables.AddRange(new DataTable[] { Products, Customers, Employees, Orders });
-
+            
+            ds.Relations.Add("CustomersOrders", Orders.Columns["idOrder"], Employees.Columns["idEmployee"]);
+            ds.Relations.Add("EmployeesOrders", Orders.Columns["idOrder"], Customers.Columns["idCustomer"]);
+            
             Console.WriteLine("asd");
             foreach (DataTable dt in ds.Tables)
             {
